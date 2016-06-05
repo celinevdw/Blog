@@ -1,0 +1,119 @@
+body {
+    background-color: #EEE4D4;
+}
+
+h2 {
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 3em;
+    color: white;
+    float: left;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    z-index: 10;
+}
+
+h2 a {
+    color: white;
+    text-decoration: none;
+}
+
+#header1 {
+    width: 100%;
+    height: 250px;
+    background-color: #BDD3EF;
+    position: relative;
+}
+
+nav {
+    display: table;
+    height: 30px;
+    width: 70%;
+    position: absolute;
+    bottom: 10px;
+    text-align: justify;
+    border-top: 3px solid #A29383;
+    border-bottom: 3px solid #A29383;
+}
+
+nav a {
+    text-align: center;
+    height: 20px;
+    text-decoration: none;
+    color: black;
+    font-size: 1.2em;
+    vertical-align: middle;
+    display: table-cell;
+}
+
+h1 {
+    font-size: 8em;
+}
+
+h3 {
+    font-size: 3em;
+}
+
+#blogpost1, #blogpost2, #blogpost3 {
+    width: 70%;
+    position: relative;
+}
+
+#blogpost2, #blogpost3 {
+    margin-top: 10px;
+}
+
+#blogpost3 {
+    margin-bottom: 10px;
+}
+#beschrijving {
+    width: 50%;
+    background-color: #A29383;
+    float: left;
+    height: 100px;
+}
+
+#tags {
+    width: 50%;
+    float: left;
+    background-color: #66605C;
+    height: 100px;
+}
+
+#clear {
+    clear: both;
+}
+
+img {
+    width: 100%;
+}
+
+footer {
+    width: 100%;
+    background-color: #BDD3EF;
+    height: 50px;
+    margin-top: 10px;
+}
+
+#einde {
+    width: 70%;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: #EEE4D4;
+}
+
+#einde a {
+    color: black;
+}
+
+
+footer a {
+    margin-top: 10px;
+    margin-left: 10px;
+    float: left;
+    text-decoration: none;
+    color: black;
+}
